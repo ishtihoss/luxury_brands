@@ -1,7 +1,3 @@
-Certainly! Here's the updated README:
-
----
-
 # Luxury Brands Sentiment Analysis
 
 ## Overview
