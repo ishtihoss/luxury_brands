@@ -51,6 +51,3 @@ The project utilizes the following libraries and tools:
 
 - **MD Ishtiaque Hossain AKA Ishti**
 
----
-
-Feel free to let me know if there's anything else you'd like to add or modify!
